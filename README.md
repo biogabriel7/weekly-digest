@@ -164,8 +164,8 @@ To add new analysis or visualization components:
 
 ## License
 
-This pipeline is provided as-is for educational analysis purposes.
+Internal Usage.
 
 ## Support
 
-For issues or questions, please refer to the documentation or create an issue in the repository.
+For issues or questions, please refer to Gabriel.
